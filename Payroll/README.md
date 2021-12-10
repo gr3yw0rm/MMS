@@ -1,5 +1,7 @@
 A.) COMPUTING ATTENDANCE AND PAYROLL
+
 	1. Open ZKT Eco App & Log-in
+	
 	2. Sync logs from fingerprint scanner to pc by:
 		- Go to "Device"
 		- Click "Get Logs"
